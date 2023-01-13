@@ -1,16 +1,4 @@
-- 👋 Hello Word, I’m @luizsantosi
-- 👀 I’m interested in learning mobile programming and devops culture
-- 🌱 I’m currently learning Systems Analysis
-- 💞️ I’m looking to collaborate on anything I can help
-- 📫 How to reach me for email and instagram
-.
-.
-.
-.
-.
-.
-.
-.
+
 - 👋 Hello Word, Eu sou o @luizsantosi
 - 👀 Atualmente estudo programação na Trybe 
 - 🌱 Atualmente aprendendo Analise de Sistemas
