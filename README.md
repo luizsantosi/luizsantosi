@@ -1,5 +1,5 @@
 
-## Hello Word  🌎  ! Eu sou o Luiz 
+## <h1 align="center">Hello Word  🌎  ! Eu sou o Luiz </h1>
 
 
 - 👀 Atualmente estudo programação na Trybe 
@@ -7,8 +7,12 @@
 - 💞️ Estou procurando colaborar em qualquer coisa que eu possa ser ultil.
 - 📫 Como me encontrar? por e-mail e instagram. 
 - 📫 l.shnrique215@gmail.com - @luizsantos_i
+<br>
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
-<br> 
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
